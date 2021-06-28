@@ -1,7 +1,8 @@
-package ru.vlasoff.afa
+package ru.vlasoff.afa.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import ru.vlasoff.afa.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
